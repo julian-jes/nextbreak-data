@@ -1116,22 +1116,6 @@
         {
             "date": "2026-06-12",
             "is_school_day": true
-        },
-        {
-            "date": "2026-06-13",
-            "is_school_day": false
-        },
-        {
-            "date": "2026-06-14",
-            "is_school_day": false
-        },
-        {
-            "date": "2026-06-15",
-            "is_school_day": true
-        },
-        {
-            "date": "2026-06-16",
-            "is_school_day": true
         }
     ]
 }
